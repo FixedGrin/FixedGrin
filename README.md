@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FixedGrin
+- 👋 Hi, I’m Michael Biczok aka @FixedGrin 
 - 👀 I’m interested in cyber security and programming
 - 🌱 I’m currently learning c++, malware analysis, etc.
 - 💞️ I’m looking to collaborate on automated security tools
