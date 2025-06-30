@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Michael Biczok 👋</h1>
-<p align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Developer</p>
+<p align="center">Cybersecurity Professional</p>
 
 ---
 
